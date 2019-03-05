@@ -1,0 +1,120 @@
+
+.r-app-category-box {
+    width: 100%;
+    min-height: 380px;
+}
+
+.r-app-category {
+	    
+       margin-left: 15%;
+   
+}
+
+.r-app-category .selected {
+    box-shadow: 0 1px 3px rgba(10, 168, 221, 0.75);
+    background: #fff url(../../images/ico/ico-select.png) no-repeat left bottom;
+}
+
+.r-app-category li {
+    width: 190px;
+    height: 80px;
+    padding: 10px 10px 0;
+    float: left;
+    margin: 0 10px 10px 0;
+    display: inline;
+    position: relative;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.r-app-category li:hover {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+    -webkit-transition: box-shadow .2s ease-in;
+}
+
+/*.r-app-category li:nth-child(4n) {*/
+    /*margin-right: 0;*/
+/*}*/
+
+.r-app-category .pic {
+    float: left;
+    width: 58px;
+    height: 58px;
+    margin-right: 13px;
+    display: block;
+}
+
+.r-app-category .pic img {
+    width: 100%;
+    height: 100%;
+}
+
+.r-app-category .right-con {
+    /*width: 94px;*/
+    /*float: left;*/
+}
+
+.r-app-category .right-con .name {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.r-app-category .right-con .name:hover {
+    color: #1fb3e5;
+}
+
+.r-app-category .right-con .g-btn {
+    /*clear: both;*/
+    margin-top: 5px;
+}
+
+.mobo-c-keywords {
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid #dadada;
+    margin-bottom: 10px;
+    padding: 10px;
+    line-height: 20px;
+}
+.mobo-c-k-t1 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.mobo-c-keywords a {
+    margin-left: 15px;
+}
+
+.mobo-c-author {
+    height: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    line-height: 20px;
+    background-color: #e1e5e6;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
