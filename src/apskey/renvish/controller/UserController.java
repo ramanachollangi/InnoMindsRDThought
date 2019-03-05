@@ -321,6 +321,7 @@ public class UserController {
 		System.out.println(user.getUseremail());
 		*/
 		//return new ModelAndView("show","userList1",userList1);
+		System.out.println("hii");
 		return new ModelAndView("show","userList",userList1);
 		
 
